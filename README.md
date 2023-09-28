@@ -37,7 +37,7 @@ Here is an example of the simulation for an autonomous car with Akerman steering
 
 
 
-https://github.com/kt-krutarthtrivedi/Autonomous-Parking-Using-A-Star/assets/134632027/49e994f4-b022-49b7-a868-734243d7c613
+https://github.com/DhirajRouniyar/Assets/blob/main/Videos/Hybrid%20Astar/241455808-49e994f4-b022-49b7-a868-734243d7c613.mp4
 
 
 
@@ -45,7 +45,7 @@ https://github.com/kt-krutarthtrivedi/Autonomous-Parking-Using-A-Star/assets/134
 
 This truck has a trailer attached at the back of the iy. The following figure depicts an autonomous truck pulling a trailer:
 
-![Trailer](https://github.com/kt-krutarthtrivedi/Autonomous-Parking-Using-A-Star/assets/134632027/b36e4689-20e7-47b3-964b-92a2f5347c02)
+![Trailer](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Hybrid%20Astar/Map4.png)
 
 
 
@@ -53,7 +53,7 @@ Here is an example of the simulation for an autonomous truck pulling a trailer:
 
 
 
-https://github.com/kt-krutarthtrivedi/Autonomous-Parking-Using-A-Star/assets/134632027/42159d81-1204-48fc-b2c0-317797cde3d0
+https://github.com/DhirajRouniyar/Assets/blob/main/Videos/Hybrid%20Astar/241415151-42159d81-1204-48fc-b2c0-317797cde3d0.mp4
 
 
 ## Report
