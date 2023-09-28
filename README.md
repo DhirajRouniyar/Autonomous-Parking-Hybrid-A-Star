@@ -9,7 +9,7 @@ A common path planning problem for autonomous vehicles involves maneuvering in t
 ## About the environment
 The project is implemented using the pygame library of python. The environment for the same is a parking lot in a two dimensional grid world. In each instance, a car starts at the Northwest corner of the bounded two dimensional field. The car is to be parked in a compact space in the southern border, flanked by vehicles both in front of and behind the target space. Additionally, there is an island in the central region. The environment approximately looks like the following:
 
-![Environment] (https://github.com/DhirajRouniyar/Assets/blob/main/Images/Hybrid%20Astar/Map.png)
+![Environment](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Hybrid%20Astar/Map.png)
 
 
 ## An autonomous delivery robot with DiWheel Kinematics
