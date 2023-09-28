@@ -15,7 +15,7 @@ The project is implemented using the pygame library of python. The environment f
 ## An autonomous delivery robot with DiWheel Kinematics
   This delivery robot is a robot having two parallel wheel side by side. Robots having diwheel kinematics have the capability of taking spot turns, unlike autonomous cars. A figure showing diwheel kinematics is displayed below:
 
-![Diwheel](https://github.com/kt-krutarthtrivedi/Autonomous-Parking-Using-A-Star/assets/134632027/ab6b4a5f-c055-4256-a27e-6d66a217c20e)
+![Diwheel](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Hybrid%20Astar/Map2.png)
 
 
 Here is an example of the simulation for an autonomous delivery robot with Diwheel kinematics:
