@@ -22,7 +22,7 @@ Here is an example of the simulation for an autonomous delivery robot with Diwhe
 
 
 
-https://github.com/kt-krutarthtrivedi/Autonomous-Parking-Using-A-Star/assets/134632027/f9a3052e-ad2e-43ed-8f22-8813c29e36f2
+https://github.com/DhirajRouniyar/Assets/blob/main/Videos/Hybrid%20Astar/241414929-f9a3052e-ad2e-43ed-8f22-8813c29e36f2.mp4
 
 
 
@@ -30,7 +30,7 @@ https://github.com/kt-krutarthtrivedi/Autonomous-Parking-Using-A-Star/assets/134
 
 Akerman Steering mechanism is used to some extent in today's cars. The following figure depicts akerman steering:
 
-![Akerman](https://github.com/kt-krutarthtrivedi/Autonomous-Parking-Using-A-Star/assets/134632027/c2131664-e67a-4b98-853d-da6ff63a0a35)
+![Akerman](https://github.com/DhirajRouniyar/Assets/blob/main/Images/Hybrid%20Astar/Map3.png)
 
 
 Here is an example of the simulation for an autonomous car with Akerman steering:
