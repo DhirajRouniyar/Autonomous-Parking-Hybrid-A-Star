@@ -58,7 +58,7 @@ https://github.com/DhirajRouniyar/Assets/blob/main/Videos/Hybrid%20Astar/2414151
 
 ## Report
 
-Please find the more detail on path depiction and algorithm's performance in the [report.](https://github.com/DhirajRouniyar/Assets/blob/main/Report/Report%20Summarised.pdf)
+Please find the more detail on path depiction and algorithm's performance in the [report.](https://github.com/DhirajRouniyar/Autonomous-Parking-Hybrid-A-Star/blob/main/Report/Report%20Summarised.pdf)
 
 
 
